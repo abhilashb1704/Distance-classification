@@ -67,5 +67,8 @@ Feel free to contribute by:
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or suggestions, reach out at [your email/LinkedIn].
+For any queries or suggestions, reach out at [abhilash.bindal.ug23@plaksha.edu.in].
 
+
+![Result](image.png)
+![Output image](image-1.png)

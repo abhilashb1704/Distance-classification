@@ -1,8 +1,9 @@
-import pandas as pd
+import cv2
 
-# Placeholder for dataset loading
-def load_data(file_path):
-    return pd.read_csv(file_path)
+# Load the image
+image = cv2.imread("Plaksha_Faculty.jpg")
 
-if _name_ == "_main_":
-    print("Dataset loading script initialized.")
+# Display the image
+cv2.imshow("Loaded Image", image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
