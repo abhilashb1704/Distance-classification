@@ -70,5 +70,9 @@ This project is licensed under the MIT License.
 For any queries or suggestions, reach out at [abhilash.bindal.ug23@plaksha.edu.in].
 
 
-![Faculty_Faces](image-2.png)
+![Faculty_Faces](image-6.png)
+![K means clustering](image-2.png)
+![K means clustering-graph](image-3.png)
 ![Shashi Tharoor_face](image-1.png)
+![K means clusturing with Shashi Tharoor](image-4.png)
+![K means clusturing with Shashi Tharoor graph](image-5.png)
