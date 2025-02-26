@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 For any queries or suggestions, reach out at [abhilash.bindal.ug23@plaksha.edu.in].
 
 
-![Result](image.png)
-![Output image](image-1.png)
+![Faculty_Faces](image-2.png)
+![Shashi Tharoor_face](image-1.png)
